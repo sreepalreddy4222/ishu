@@ -1,5 +1,8 @@
 ls -lrt
 cat sanvika
+<<<<<<< HEAD
 
 this is revert
 this is fourth line 
+=======
+>>>>>>> parent of 3636ed6... revert
